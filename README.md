@@ -6,8 +6,8 @@
 
 ## Photos
 
-![alt text](https://github.com/kyriosaa/7binary/blob/main/7binary-1.jpg "7binary Image 1")
-![alt text](https://github.com/kyriosaa/7binary/blob/main/7binary-2.jpg "7binary Image 1")
-![alt text](https://github.com/kyriosaa/7binary/blob/main/7binary-3.jpg "7binary Image 1")
-![alt text](https://github.com/kyriosaa/7binary/blob/main/7binary-4.jpg "7binary Image 1")
-![alt text](https://github.com/kyriosaa/7binary/blob/main/7binary-5.jpg "7binary Image 1")
+<img src='./7binary-1.jpgjpg' width='100%' >
+<img src='./7binary-2.jpgjpg' width='100%' >
+<img src='./7binary-3.jpgjpg' width='100%' >
+<img src='./7binary-4.jpgjpg' width='100%' >
+<img src='./7binary-5.jpgjpg' width='100%' >
