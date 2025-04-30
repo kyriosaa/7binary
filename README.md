@@ -6,8 +6,8 @@
 
 ## Photos
 
-<img src='./7binary-1.jpgjpg' width='100%' >
-<img src='./7binary-2.jpgjpg' width='100%' >
-<img src='./7binary-3.jpgjpg' width='100%' >
-<img src='./7binary-4.jpgjpg' width='100%' >
-<img src='./7binary-5.jpgjpg' width='100%' >
+<img src='./7binary-1.jpg' width='100%' >
+<img src='./7binary-2.jpg' width='100%' >
+<img src='./7binary-3.jpg' width='100%' >
+<img src='./7binary-4.jpg' width='100%' >
+<img src='./7binary-5.jpg' width='100%' >
